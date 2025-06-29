@@ -1,7 +1,6 @@
 # tats' super cool macropad
 ### for hack club's "hackpad" ysws (i genuinely couldn't think of a better name)
 
-[image](https://github.com/user-attachments/assets/9ca47840-aea5-49b6-b077-1292e84d7039)
 
 the main idea with this macropad is to be able to listen to music easily, and without disturbing any work or opening any
 extra tabs.
@@ -20,4 +19,8 @@ spotify data is fetched using the spotify API, and the OLED displays the song i 
 cool scrolling animation if the artist/song name is too big!).
 
 finally, the rotary encoder allows me to change the volume, and i can mute if i press on it. 
+
+schematic            |  PCB         |   case    |   plate
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![image](https://github.com/user-attachments/assets/70454112-47b7-44a9-924e-3a8c53fec77a)| ![image](https://github.com/user-attachments/assets/64821e0e-4b6a-484d-ae4e-3a6258205c53) | ![image](https://github.com/user-attachments/assets/a95ea2d3-1d22-4550-b8a0-6cd00c639598)| ![image](https://github.com/user-attachments/assets/4ef1f4e7-3f43-4731-90da-4cbcf8023d87)
 
