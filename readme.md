@@ -1,6 +1,8 @@
 # tats' super cool macropad
 ### for hack club's "hackpad" ysws (i genuinely couldn't think of a better name)
 
+![image](https://github.com/user-attachments/assets/f586cf94-7a38-4b3e-b337-809dd3fd4d21)
+
 
 the main idea with this macropad is to be able to listen to music easily, and without disturbing any work or opening any
 extra tabs.
